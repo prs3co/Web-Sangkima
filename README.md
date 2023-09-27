@@ -16,8 +16,8 @@ Pembuatan website ini merupakan salah satu dari program kerja dari KKN Bina Desa
 - [JWT](https://jwt.io/) - Pengemabangan fitur Autentikasi akun.
 - [SWR](https://swr.vercel.app/) - React Hooks library untuk data fetching.
 
-## Cobain Website
-silahkan ke [Website Profil Desa Sangkima]()
+## Link Website
+silahkan ke [Website Profil Desa Sangkima](https://web-profil-desa-sangkima.vercel.app/)
 
 ## Screenshot Tampilan Aplikasi
 <p align="center">
